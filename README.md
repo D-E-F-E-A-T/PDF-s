@@ -1,4 +1,5 @@
-Intuito principal deste respositório é somente para o armazenameto de PDF's de diversas materias em geral sendo:
+# INTUITO PRINCIPAL
+respositório usado para o armazenameto de PDF's, Links e vídeos de diversas materias em geral sendo:
 -HTML;
 -CSS;
 -Python;
